@@ -1,0 +1,17 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\bin\Debug\netcoreapp3.1\ygshesap.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.csproj.AssemblyReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.Properties.Resources.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\ygshesap\ygshesap\obj\Debug\netcoreapp3.1\ygshesap.genruntimeconfig.cache
